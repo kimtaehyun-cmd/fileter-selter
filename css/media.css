@@ -1,0 +1,18 @@
+@media screen and (max-width: 1200px) {
+  .wrapper {
+    padding: 1.25rem;
+    display: flex;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .filter-images .filter-image {
+    width: 33.33%;
+  }
+}
+
+@media screen and (max-width: 510px) {
+  .filter-images .filter-image {
+    width: 50%;
+  }
+}
